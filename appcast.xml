@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+
+    <channel>
+        <title>Student Manager</title>
+        <description>Student Manager updates</description>
+        <language>en</language>
+
+        <item>
+            <title>Version 1.0.1</title>
+
+            <pubDate>Tue, 15 Sep 2026 11:42:00 +0530</pubDate>
+
+            <enclosure
+                url="https://github.com/sk0723888-dotcom/student_manager_updates/releases/download/v1.0.1/Student.Manager.Setup.exe"
+                sparkle:dsaSignature="MDwCHBlZ5iDlVtiG8hgTya8+KGSr2HXtUs+e60yl80CHGvwe1QgPwZfG75e60sRu+obgpCASZEa+KBM2es="
+                sparkle:version="1.0.1+2"
+                sparkle:os="windows"
+                length="19293750"
+                type="application/octet-stream" />
+        </item>
+
+    </channel>
+</rss>
