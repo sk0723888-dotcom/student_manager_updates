@@ -14,7 +14,7 @@
 
             <enclosure
                 url="https://github.com/sk0723888-dotcom/student_manager_updates/releases/download/v1.0.2/Student.Manager.Setup.exe"
-                sparkle:dsaSignature="MD4CHQcllsfZ2N+Qgwby8QCVQDpyfVk3rM3jLg034vTwVdHA0A1w5Z2ZclIzNjPNzUSXj2V1WUASOBbMQU2cg=="
+                sparkle:dsaSignature="MDwCHCt29gGXXxfC86vRcMdc8A2Q/RhuT+klOujTJ7oCHCs8PtVqFzKPnCWij+8EyCGoIN4Mg4aW1TWD5Qc="
                 sparkle:version="1.0.2+3"
                 sparkle:os="windows"
                 length="19292067"
